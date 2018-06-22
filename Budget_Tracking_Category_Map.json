@@ -1,0 +1,330 @@
+{
+  "Adobe Subscriptions": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Anniversary": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Antivirus": {
+    "Category":"Technology",
+    "Class":"Expenses"
+  },
+  "Audible": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "Aussielent": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "Blinkist": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "Books": {
+    "Category":"Creativity+Learning",
+    "Class":"Expenses"
+  },
+  "Boost": {
+    "Category":"Utilities",
+    "Class":"Expenses"
+  },
+  "CARE Australia": {
+    "Category":"Charities+Causes",
+    "Class":"Expenses"
+  },
+  "Camera Gear": {
+    "Category":"Technology",
+    "Class":"Expenses"
+  },
+  "Cash": {
+    "Category":"Misc",
+    "Class":"Expenses"
+  },
+  "Centrelink": {
+    "Category":"Debts+Loans",
+    "Class":"Expenses"
+  },
+  "Clothing": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "Comprehensive Insurance": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Computer": {
+    "Category":"Technology",
+    "Class":"Expenses"
+  },
+  "Courses": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Credit Card Interest": {
+    "Category":"Charities+Causes",
+    "Class":"Expenses"
+  },
+  "Dad": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Dan": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Department of Education": {
+    "Category":"Department of Education",
+    "Class":"Income"
+  },
+  "Desexing/Medical": {
+    "Category":"Dog",
+    "Class":"Expenses"
+  },
+  "Dog Food": {
+    "Category":"Dog",
+    "Class":"Expenses"
+  },
+  "Dog Rego": {
+    "Category":"Dog",
+    "Class":"Expenses"
+  },
+  "Drone": {
+    "Category":"Charities+Causes",
+    "Class":"Expenses"
+  },
+  "Eating Out": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "Electricity": {
+    "Category":"Utilities",
+    "Class":"Expenses"
+  },
+  "Exercise Equipment": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "Festivals": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "Food": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "Fuel": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Gifts Received": {
+    "Category":"Gifts Received",
+    "Class":"Income"
+  },
+  "Google Drive": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "Greenslip": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Home Contents": {
+    "Category":"Other Insurance",
+    "Class":"Expenses"
+  },
+  "Interest": {
+    "Category":"Bank",
+    "Class":"Income"
+  },
+  "Internet": {
+    "Category":"Utilities",
+    "Class":"Expenses"
+  },
+  "Jim": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Life Insurance": {
+    "Category":"Other Insurance",
+    "Class":"Expenses"
+  },
+  "Mel Rent": {
+    "Category":"Charities+Causes",
+    "Class":"Expenses"
+  },
+  "Misc Other Income": {
+    "Category":"Misc Other Income",
+    "Class":"Income"
+  },
+  "Missy": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Movies": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "Mum": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Museums": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "NCTM": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "NRMA Membership": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Naked Wines": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "Netflix/Stan": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "New Scientist": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "Other Gifts": {
+    "Category":"Gifts",
+    "Class":"Expenses"
+  },
+  "Other Tax Deductible Purchases": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Phone Upgrades": {
+    "Category":"Technology",
+    "Class":"Expenses"
+  },
+  "Radiotopia": {
+    "Category":"Charities+Causes",
+    "Class":"Expenses"
+  },
+  "Rebate": {
+    "Category":"Rebate",
+    "Class":"Income"
+  },
+  "Rego": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Repairs": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Retention Bonus": {
+    "Category":"Department of Education",
+    "Class":"Income"
+  },
+  "Savings": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "School Technology": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Services": {
+    "Category":"Car",
+    "Class":"Expenses"
+  },
+  "Shoes": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "Software": {
+    "Category":"Technology",
+    "Class":"Expenses"
+  },
+  "Specialist Clothing": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "Spotify": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "Stationary": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Supplies": {
+    "Category":"Life",
+    "Class":"Expenses"
+  },
+  "TFR": {
+    "Category":"TFR",
+    "Class":"TFR"
+  },
+  "TV Shows": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "Tax Return": {
+    "Category":"ATO",
+    "Class":"Income"
+  },
+  "Teacher's Fed": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Teacher's Health": {
+    "Category":"Other Insurance",
+    "Class":"Expenses"
+  },
+  "Test": {
+    "Category":"Test",
+    "Class":"Test"
+  },
+  "Textbooks": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Theatre": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "Toys": {
+    "Category":"Dog",
+    "Class":"Expenses"
+  },
+  "Udemy_Personal": {
+    "Category":"Creativity+Learning",
+    "Class":"Expenses"
+  },
+  "Udemy_School": {
+    "Category":"Tax Deductible Purchases",
+    "Class":"Expenses"
+  },
+  "Uncategorised": {
+    "Category":"Uncategorised",
+    "Class":"Uncategorised"
+  },
+  "Videogames": {
+    "Category":"Entertainment",
+    "Class":"Expenses"
+  },
+  "Who Gives a Crap": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "YouTube Red": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  },
+  "iCloud": {
+    "Category":"Subscriptions",
+    "Class":"Expenses"
+  }
+}
