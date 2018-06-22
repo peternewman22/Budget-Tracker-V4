@@ -1,5 +1,5 @@
 # Budget-Tracker-V4
-* The very first major project I started working on when I first started learning to code.
+* The very first "major" project I started working on when I first started learning to code.
 * It's an experiment using dictionaries, json files, user input and pandas.
 
 How it works:
@@ -22,3 +22,6 @@ Features to be added:
 Stretch goals: 
 * Automatic fetch from bank site
 * UI
+
+Disclaimer:
+* I have no formal training in computer science, so my code is by no means optimised or efficient. But I'm learning.
